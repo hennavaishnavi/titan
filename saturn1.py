@@ -1,4 +1,0 @@
-moon
-mars
-stars 
-bruno
